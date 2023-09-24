@@ -1,3 +1,5 @@
 Learn CI
 Java Script
-aca buku
+Baca buku
+ * Novel
+ * Knowledge
